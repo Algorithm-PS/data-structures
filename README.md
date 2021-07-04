@@ -13,3 +13,5 @@ https://sp21.datastructur.es/
 |2021/07/18 9pm|21~22|B-Trees, Red Black Trees, and Hashing, HashMap |   |
 |2021/07/25 9pm|23~24|Heaps and Graphs |   |
 |2021/08/01 9pm|25|Range Searching and Multi-Dimensional Data |   |
+|2021/08/08 9pm| | 알고리즘 문제 풀기 |   |
+|2021/08/15 9pm| | 알고리즘 문제 풀기 |   |

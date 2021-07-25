@@ -12,3 +12,4 @@ https://sp21.datastructur.es/
 |2021/07/11 9pm|19~20|ADTs and Asymptotics II (Exam Prep), BSTMap|  Project 2 읽어오기  |
 |2021/07/18 9pm|문제 풀기| BSTMap, HW2 |   |
 |2021/07/25 9pm|21~22| week8 discussion 문제 모두 풀기| JM:21, Bedi:22  |
+|2021/08/01 9pm|23~24| HashMap  | JM:23, Bedi:24 |

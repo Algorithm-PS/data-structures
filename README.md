@@ -13,4 +13,8 @@ https://sp21.datastructur.es/
 |2021/07/18 9pm|문제 풀기| BSTMap, HW2 |   |
 |2021/07/25 9pm|21~22| week8 discussion 문제 모두 풀기| JM:21, Bedi:22  |
 |2021/08/01 9pm|23~24| HashMap  | JM:23, Bedi:24 |
-|2021/08/01 9pm|25| week 9 discussion 전부  | |
+|2021/08/08 9pm|25| week 9 discussion 전부  | |
+|2021/08/15 9pm||   | |
+|2021/08/21(토) 9pm||   | |
+|2021/08/29 9pm||   | |
+|2021/09/5 9pm|| holiday | |

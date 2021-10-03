@@ -18,3 +18,4 @@ https://sp21.datastructur.es/
 |2021/08/21(토) 9pm|| Gitlit + 알고리즘 문제 2개 | |
 |2021/08/29 9pm|| Gitlit + 알고리즘 문제 2개 | |
 |2021/09/5 9pm|| holiday | |
+|2021/10/10 9pm|| 28. Reductions and Decomposition,29. Basic Sorts | Shortest Paths and MSTs (Exam Prep), More Graphs and Tries |
